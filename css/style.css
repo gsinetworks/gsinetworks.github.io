@@ -2018,7 +2018,7 @@ i.inter {
   text-transform: uppercase;
 }
 .error-404 background {
-  background-image: url("banner.jpg");
+  background-image: url("../images/banner.jpg");
 }
 .error-404 p{
 	color:#666666;
