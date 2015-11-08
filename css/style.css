@@ -2007,7 +2007,8 @@ i.inter {
 }
 .main {
   padding: 12em 0px;
-  background: #f3f3f3;
+  /*background: #f3f3f3;*/
+  background-image: url("../images/banner.jpg");/*this is what i added*/
 }
 .error-404 h1 {
   font-size: 12em;
@@ -2016,9 +2017,6 @@ i.inter {
   margin: 0;
   padding: 0;
   text-transform: uppercase;
-}
-.error-404 background {
-  background-image: url("../images/banner.jpg");
 }
 .error-404 p{
 	color:#666666;
