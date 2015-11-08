@@ -2007,8 +2007,7 @@ i.inter {
 }
 .main {
   padding: 12em 0px;
-  /*background: #f3f3f3;*/
-  background-image: url("../images/banner.jpg");/*this is what i added*/
+  background: #f3f3f3;
 }
 .error-404 h1 {
   font-size: 12em;
