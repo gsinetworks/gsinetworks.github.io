@@ -2017,6 +2017,9 @@ i.inter {
   padding: 0;
   text-transform: uppercase;
 }
+.error-404 background {
+  background-image: url("banner.jpg");
+}
 .error-404 p{
 	color:#666666;
 	margin: 0;
