@@ -317,7 +317,7 @@ i.rss:hover{
   margin: 1em 0;
 }
 .our {
-  padding: 0em 0;/*4 em before*/
+  padding: 4em 0;
   border-bottom: 1px solid #eeeeee;
 }
 i.best {
