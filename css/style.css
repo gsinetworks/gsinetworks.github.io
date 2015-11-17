@@ -2477,8 +2477,8 @@ div#portfoliolist {
 }
 .head-nav span.menu:before{
 	position: fixed;
-    	right: 212px;
-    	top: 94px;
+    	left: 100%;
+    	top: 10%;
 	content:url(../images/menu.png);
 	color:#FFF;
 	text-align:right;
