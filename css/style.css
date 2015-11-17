@@ -2477,7 +2477,7 @@ div#portfoliolist {
 }
 .head-nav span.menu:before{
 	position: fixed;
-    	left: 100%;
+    	right: 0%;
     	top: 10%;
 	content:url(../images/menu.png);
 	color:#FFF;
