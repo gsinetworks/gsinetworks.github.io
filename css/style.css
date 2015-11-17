@@ -2472,13 +2472,13 @@ div#portfoliolist {
   display: block;
   background: none;
   position: absolute;
-  top: 80px;/*94px*/
+  top: 94px;/*94px*/
   right: 212px;
 }
 .head-nav span.menu:before{
 	position: absolute;
     	right: 0%;
-    	top: 80px;
+    	top: 0px;
 	content:url(../images/menu.png);
 	color:#FFF;
 	text-align:right;
