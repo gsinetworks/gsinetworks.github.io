@@ -2479,7 +2479,7 @@ div#portfoliolist {
 .head-nav span.menu:before{
 	position: absolute;
     	right: 0%;
-    	top: 0px;
+    	top: 45px;
 	content:url(../images/menu.png);
 	color:#FFF;
 	text-align:right;
