@@ -2472,7 +2472,7 @@ div#portfoliolist {
 .head-nav span.menu {
   display: block;
   background: none;
-  position: absolute;
+  position: static;
   top: 94px;/*94px*/
   right: 212px;
 }
